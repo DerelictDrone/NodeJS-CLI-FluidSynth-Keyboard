@@ -1,0 +1,8 @@
+{
+  "name"    : "NodeJS-CLI-FluidSynth-Keyboard",
+  "version" : "1.0.0",
+  "bin"     : "./piano.js",
+  "pkg": {
+    "assets": [ "./fs/*" ]
+  }
+}
